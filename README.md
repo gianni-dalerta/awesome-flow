@@ -40,4 +40,5 @@ Table of contents
 
 ### Explorers
 - [Big Dipper](https://flow.bigdipper.live/) - Block explorer
+- [Flowscan](https://flowscan.org/)
 - [CryptoSlam!](https://www.cryptoslam.io/) - Sales Stats

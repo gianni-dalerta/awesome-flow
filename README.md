@@ -28,6 +28,7 @@ Table of contents
 
 ### Collecting
 - [NBA Top Shots](https://www.nbatopshot.com/) by [Dapper](https://www.dapperlabs.com/)
+- [Genies](https://genies.com/)
 
 ### Art
 - [VIV3](https://viv3.com/)

@@ -12,6 +12,7 @@ Table of contents
 * [FLOW](#flow)
 * [Projects](#projects)
   * [Collecting](#collecting)
+  * [Art](#art)
   * [Games](#games)
   * [Tools](#tools)
   * [Explorers](#explorers)

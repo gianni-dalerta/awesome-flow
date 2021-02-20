@@ -27,6 +27,9 @@ Table of contents
 ### Collecting
 - [NBA Top Shots](https://www.nbatopshot.com/) by [Dapper](https://www.dapperlabs.com/)
 
+### Art
+- [VIV3](https://viv3.com/)
+
 ### Games
 - [Fantasy Game for NBA Top Shot Moments](https://www.swyysh.com/)
 

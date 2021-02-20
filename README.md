@@ -33,6 +33,7 @@ Table of contents
 - [VIV3](https://viv3.com/)
 
 ### Games
+- [ChainMonsters](https://playchainmonsters.com/)
 - [swyysh](https://www.swyysh.com/) - Fantasy Game for NBA Top Shot Moments
 
 ### Tools

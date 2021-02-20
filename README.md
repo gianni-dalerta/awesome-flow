@@ -20,6 +20,7 @@ Table of contents
 
 ## DAPPER
 - [Dapper Labs](https://dapperlabs.com/)
+
 ## FLOW
 - [Flow](https://www.onflow.org/)
 
@@ -32,11 +33,11 @@ Table of contents
 - [VIV3](https://viv3.com/)
 
 ### Games
-- [Fantasy Game for NBA Top Shot Moments](https://www.swyysh.com/)
+- [swyysh](https://www.swyysh.com/) - Fantasy Game for NBA Top Shot Moments
 
 ### Tools
 - [intangible.market](https://intangible.market/) by [Veerman](https://twitter.com/veerman)
 
 ### Explorers
-- [Big Dipper](https://flow.bigdipper.live/)
-- [CryptoSlam!](https://www.cryptoslam.io/)
+- [Big Dipper](https://flow.bigdipper.live/) - Block explorer
+- [CryptoSlam!](https://www.cryptoslam.io/) - Sales Stats

@@ -27,20 +27,23 @@ Table of contents
 ## Projects
 
 ### Collecting
-- [NBA Top Shots](https://www.nbatopshot.com/) by [Dapper](https://www.dapperlabs.com/)
-- [Genies](https://genies.com/)
+* [NBA Top Shots](https://www.nbatopshot.com/) by [Dapper](https://www.dapperlabs.com/)
+  * [intangible.market](https://intangible.market/) by [Veerman](https://twitter.com/veerman)
+  * [Moment Ranks](https://momentranks.com/)
+  * [Evaluate Market](https://evaluate.market/)
+* [Genies](https://genies.com/)
 
 ### Art
-- [VIV3](https://viv3.com/)
+* [VIV3](https://viv3.com/)
 
 ### Games
-- [Chain Monsters](https://playchainmonsters.com/)
-- [swyysh](https://www.swyysh.com/) - Fantasy Game for NBA Top Shot Moments
+* [Chain Monsters](https://playchainmonsters.com/)
+* [swyysh](https://www.swyysh.com/) - Fantasy Game for NBA Top Shot Moments
 
 ### Tools
-- [intangible.market](https://intangible.market/) by [Veerman](https://twitter.com/veerman)
+
 
 ### Explorers
-- [Big Dipper](https://flow.bigdipper.live/) - Block explorer
-- [Flowscan](https://flowscan.org/)
-- [CryptoSlam!](https://www.cryptoslam.io/) - Sales Stats
+* [Big Dipper](https://flow.bigdipper.live/) - Block explorer
+* [Flowscan](https://flowscan.org/)
+* [CryptoSlam!](https://www.cryptoslam.io/) - Sales Stats

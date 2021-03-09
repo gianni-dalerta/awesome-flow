@@ -10,6 +10,7 @@ Table of contents
 <!--ts-->
 * [DAPPER](#dapper)
 * [FLOW](#flow)
+  * [Cadence vs. Solidity](https://mobile-cloud-security.blogspot.com/2021/03/cadence-vs.html) by [Ken](https://forum.onflow.org/u/Ken)
 * [Projects](#projects)
   * [Collecting](#collecting)
   * [Art](#art)
